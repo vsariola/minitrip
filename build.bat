@@ -1,0 +1,1 @@
+nasm minitrip.asm -fbin -o minitrip.com
